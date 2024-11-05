@@ -1,6 +1,6 @@
 <?php
-require_once '../models/Usuario.php';
-require_once '../config/database.php';
+require_once __DIR__ . '/../models/Usuario.php';
+require_once __DIR__ . '/../config/database.php';
 
 class UsuarioController {
     private $usuario;

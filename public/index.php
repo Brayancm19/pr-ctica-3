@@ -1,5 +1,6 @@
 <?php
-require_once '../src/controllers/UsuarioController.php';
+set_include_path(__DIR__ . '/../src');
+require_once 'controllers/UsuarioController.php';
 
 $usuarioController = new UsuarioController();
 
