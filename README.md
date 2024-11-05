@@ -2,7 +2,7 @@
 
 <h2>Brayan Josué Chacón Molina</h2>
 
-<h3>Repositorio github </h3>
+<h3>Repositorio GitHub </h3>
 
 Basado en el enpoint usuarios creado en práctica dos, realice lo 
 siguiente: <br>
